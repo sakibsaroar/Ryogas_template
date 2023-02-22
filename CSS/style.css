@@ -1,0 +1,49 @@
+
+
+
+.btn{
+
+	background-color:#ffc107;
+}
+.title{
+	
+	
+	
+	margin-bottom: 24px;
+	margin-top: 24px;
+	display: inline-block;
+	border: 1px black solid;
+}
+
+.benefit{
+	
+   justify-content: center;
+   align-items: center;
+}
+
+
+
+.section-bg {
+
+background-color: #fff9f7;	
+}
+
+.content{
+
+	height: auto;
+	box-shadow: 0px 2px 15px rgb(0 0 0 / 10%);
+	background-color: white;
+    
+    justify-content: center;
+	
+   
+	
+}
+	
+.box-5{
+
+	box-shadow: none;
+	background-color: transparent;
+
+	
+}
